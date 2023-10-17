@@ -2,7 +2,7 @@
 
 ## About ME :
 
-I am Gao Feng, a graduate of <b>_Kyung Hee University_</b> in South Korea with a major in <b>_Business Administration_.</b><br> Currently, I am preparing to apply for the Master's program for the spring of 2024. If you wish to contact me, please click the button below.
+I am Gao Feng(Pung Go, 高渢). A graduate of <b>_Kyung Hee University_</b> in South Korea with a major in <b>_Business Administration_.</b><br> Currently, I am preparing to apply for the Master's program for the spring of 2024. If you wish to contact me, please click the button below.
 
 <b>
   👨‍🎓&nbsp;&nbsp;Kyung Hee University School Of Management<br>
@@ -14,7 +14,7 @@ I am Gao Feng, a graduate of <b>_Kyung Hee University_</b> in South Korea with a
  - Applied Machine Learning
  - Big data analysis.
  - Social media analysis.
-
+---
 I am currently studying big data analysis and data mining. My areas of interest include the application of machine learning and social media analysis. In essence, as the era of digitization brings numerous opportunities and, at the same time, poses various risks and societal challenges, I aspire to leverage my skills to propose targeted and innovative business strategies, as well as contribute my own solutions to address social issues.
 
 ## Tools :
