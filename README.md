@@ -5,8 +5,8 @@
 I am Gao Feng, a graduate of <b>_Kyung Hee University_</b> in South Korea with a major in <b>_Business Administration_.</b><br> Currently, I am preparing to apply for the Master's program for the spring of 2024. If you wish to contact me, please click the button below.
 
 <b>
-  👨‍🎓&nbsp;&nbsp;Kyung Hee University School Of Management
-  🏃&nbsp;&nbsp;Currently studying C++ and database languages.
+  👨‍🎓&nbsp;&nbsp;Kyung Hee University School Of Management<br>
+  🏃&nbsp;&nbsp;Currently studying C++ and database languages<br>
   💭&nbsp;&nbsp;"Goal is to become a data scientist."
 </b>
 
