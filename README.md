@@ -13,8 +13,8 @@ I am Gao Feng(Pung Go, 高渢). A graduate of <b>_Kyung Hee University_</b> in S
 ## Research Interests :
  - Applied Machine Learning
  - Big data analysis.
- - Social media analysis.
---
+ - Social media analysis.<br>
+
 I am currently studying big data analysis and data mining. My areas of interest include the application of machine learning and social media analysis. In essence, as the era of digitization brings numerous opportunities and, at the same time, poses various risks and societal challenges, I aspire to leverage my skills to propose targeted and innovative business strategies, as well as contribute my own solutions to address social issues.
 
 ## Tools :
@@ -33,6 +33,14 @@ I am currently studying big data analysis and data mining. My areas of interest 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
 </div>
+
+## Other... 
+
+&nbsp;&nbsp;&nbsp;&nbsp;「雪覆千山為何孤峰不白？」<br>
+&nbsp;&nbsp;&nbsp;&nbsp;「不墮諸山色」
+  <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;- 끝 -
 
 <!--
 **Gooopung/Gooopung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
